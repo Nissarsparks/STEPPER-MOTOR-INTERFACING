@@ -71,6 +71,8 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 
+![WhatsApp Image 2025-09-22 at 01 27 25_281ee32a](https://github.com/user-attachments/assets/c0880312-eebb-47c1-9627-2a4d1d1a9cdd)
+
 ## RESULT
 
 Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
